@@ -44,6 +44,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
@@ -65,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -82,6 +84,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
