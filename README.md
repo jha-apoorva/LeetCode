@@ -26,6 +26,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jha-apoorva/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2645-pass-the-pillow](https://github.com/jha-apoorva/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jha-apoorva/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jha-apoorva/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jha-apoorva/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
