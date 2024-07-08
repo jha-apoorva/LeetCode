@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/jha-apoorva/LeetCode/tree/master/0620-not-boring-movies) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## String
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
