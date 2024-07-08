@@ -39,6 +39,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jha-apoorva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/jha-apoorva/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jha-apoorva/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Number Theory
 |  |
