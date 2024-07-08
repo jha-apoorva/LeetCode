@@ -34,6 +34,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jha-apoorva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jha-apoorva/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jha-apoorva/LeetCode/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -118,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jha-apoorva/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -176,4 +179,12 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
