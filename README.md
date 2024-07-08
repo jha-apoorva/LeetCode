@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -135,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jha-apoorva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jha-apoorva/LeetCode/tree/master/0242-valid-anagram) |
