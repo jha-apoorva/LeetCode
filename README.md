@@ -49,6 +49,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jha-apoorva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -136,6 +137,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jha-apoorva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jha-apoorva/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jha-apoorva/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Number Theory
@@ -196,6 +200,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jha-apoorva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jha-apoorva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
