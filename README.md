@@ -20,6 +20,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
