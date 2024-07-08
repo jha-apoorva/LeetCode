@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jha-apoorva/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/jha-apoorva/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jha-apoorva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
@@ -65,6 +66,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jha-apoorva/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
