@@ -114,6 +114,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/jha-apoorva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jha-apoorva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
