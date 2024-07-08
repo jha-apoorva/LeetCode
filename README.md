@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/jha-apoorva/LeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
