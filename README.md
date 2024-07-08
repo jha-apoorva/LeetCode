@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/jha-apoorva/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -16,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -34,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
