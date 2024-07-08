@@ -17,6 +17,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jha-apoorva/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/jha-apoorva/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Array
@@ -34,6 +35,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jha-apoorva/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
