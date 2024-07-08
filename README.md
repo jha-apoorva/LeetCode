@@ -119,6 +119,7 @@
 | [0283-move-zeroes](https://github.com/jha-apoorva/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -136,6 +137,7 @@
 | [0125-valid-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jha-apoorva/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -243,6 +245,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jha-apoorva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jha-apoorva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
