@@ -56,6 +56,7 @@
 | [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jha-apoorva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jha-apoorva/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jha-apoorva/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -148,6 +149,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jha-apoorva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jha-apoorva/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jha-apoorva/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
