@@ -143,6 +143,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3379-score-of-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |
 | ------- |
