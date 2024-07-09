@@ -13,6 +13,7 @@
 | [0070-climbing-stairs](https://github.com/jha-apoorva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -135,6 +136,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -193,6 +195,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jha-apoorva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jha-apoorva/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jha-apoorva/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
