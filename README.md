@@ -82,6 +82,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jha-apoorva/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jha-apoorva/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/jha-apoorva/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
@@ -159,6 +160,7 @@
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
