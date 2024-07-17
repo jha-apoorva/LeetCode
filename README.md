@@ -141,6 +141,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jha-apoorva/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jha-apoorva/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jha-apoorva/LeetCode/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/jha-apoorva/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/jha-apoorva/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jha-apoorva/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jha-apoorva/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
