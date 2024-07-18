@@ -117,6 +117,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/jha-apoorva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2846-robot-collisions](https://github.com/jha-apoorva/LeetCode/tree/master/2846-robot-collisions) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/jha-apoorva/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/jha-apoorva/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
