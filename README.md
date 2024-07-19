@@ -41,6 +41,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/jha-apoorva/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -90,6 +91,7 @@
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jha-apoorva/LeetCode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jha-apoorva/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/jha-apoorva/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -169,6 +171,7 @@
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -280,6 +283,7 @@
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jha-apoorva/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -343,6 +347,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jha-apoorva/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
