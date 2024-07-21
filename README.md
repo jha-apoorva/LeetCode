@@ -106,6 +106,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jha-apoorva/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/jha-apoorva/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/jha-apoorva/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/jha-apoorva/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -357,6 +358,7 @@
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/jha-apoorva/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/jha-apoorva/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Divide and Conquer
