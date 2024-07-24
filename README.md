@@ -32,6 +32,7 @@
 | [2383-add-two-integers](https://github.com/jha-apoorva/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/jha-apoorva/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/jha-apoorva/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/jha-apoorva/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jha-apoorva/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/jha-apoorva/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -319,6 +320,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jha-apoorva/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/jha-apoorva/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/jha-apoorva/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Backtracking
 |  |
 | ------- |
