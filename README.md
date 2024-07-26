@@ -31,6 +31,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jha-apoorva/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/jha-apoorva/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/jha-apoorva/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jha-apoorva/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/jha-apoorva/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/jha-apoorva/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jha-apoorva/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -341,6 +342,7 @@
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/jha-apoorva/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jha-apoorva/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jha-apoorva/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jha-apoorva/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
