@@ -10,9 +10,6 @@ class Solution {
             }
         }
         HashSet<Integer> hs = new HashSet<>(hm.values());
-        if(hm.size() == hs.size())
-        return true;
-        else
-        return false;
+        return (hm.size() == hs.size());
     }
 }
