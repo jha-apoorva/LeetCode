@@ -191,6 +191,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jha-apoorva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -217,6 +218,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/jha-apoorva/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/3379-score-of-a-string) |
 ## Linked List
@@ -348,6 +350,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jha-apoorva/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jha-apoorva/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Number Theory
 |  |
 | ------- |
