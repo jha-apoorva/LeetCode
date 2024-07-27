@@ -47,6 +47,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
+| [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/jha-apoorva/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -405,6 +406,7 @@
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 ## Interactive
 |  |
 | ------- |
@@ -442,4 +444,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
