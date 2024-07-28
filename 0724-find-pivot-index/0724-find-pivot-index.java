@@ -1,6 +1,6 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int n = nums.length;
+        /*int n = nums.length;
         int[] sumLeft = new int[n];
         int[] sumRight = new int[n];
         for(int k=1;k<n;k++){
@@ -24,6 +24,20 @@ class Solution {
         }
         //System.out.println(Arrays.toString(sumLeft));
         //System.out.println(Arrays.toString(sumRight));
-        return -1;
+        return -1;*/
+
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum += nums[i];
+        }
+        int sumLeft = 0;
+        for(int i=0;i<nums.length;i++){
+            sum -= nums[i];
+            if(sum == sumLeft){
+                return i;
+            }
+            sumLeft += nums[i];
+        }
+    return -1;
     }
 }
