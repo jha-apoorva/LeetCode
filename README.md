@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/jha-apoorva/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jha-apoorva/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jha-apoorva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jha-apoorva/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/jha-apoorva/LeetCode/tree/master/0162-find-peak-element) |
@@ -195,6 +196,7 @@
 | [0027-remove-element](https://github.com/jha-apoorva/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jha-apoorva/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/jha-apoorva/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jha-apoorva/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jha-apoorva/LeetCode/tree/master/0242-valid-anagram) |
