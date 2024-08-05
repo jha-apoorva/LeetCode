@@ -14,6 +14,6 @@ class Solution {
         int ans=0;
         for(int i=left-1;i<right;i++)
         ans = (ans + sumArray[i])%MOD;
-    return ans%MOD;
+    return ans;
     }
 }
