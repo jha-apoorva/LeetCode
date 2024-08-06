@@ -2,10 +2,10 @@ class Solution {
     public int mostWordsFound(String[] sentences) {
       int n = sentences.length;
         int maxSpaces = 0;
-        for(int i=0;i<n;i++){
+        for(String str : sentences){
             int spaces = 0;
-            for(int j=0;j<sentences[i].length();j++){
-                if(sentences[i].charAt(j)==' ')
+            for(int j=0;j<str.length();j++){
+                if(str.charAt(j)==' ')
                 spaces +=1;
             }
         maxSpaces = Math.max(spaces,maxSpaces);
