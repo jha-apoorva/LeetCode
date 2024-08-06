@@ -257,6 +257,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/jha-apoorva/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
