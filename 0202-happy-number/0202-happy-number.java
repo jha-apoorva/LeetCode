@@ -1,7 +1,7 @@
 class Solution {
     public boolean isHappy(int n) {
         int sum=0;
-        for(int i=0;i<100;i++){
+        for(int i=0;i<50;i++){
             while(n > 0){
             int digit = n%10;
             sum += digit*digit;
