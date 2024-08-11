@@ -1,6 +1,6 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        Map<String,Integer> hm = new LinkedHashMap<>();
+          Map<String,Integer> hm = new LinkedHashMap<>();
         for(String str : arr){
             if(hm.containsKey(str))
             hm.put(str,hm.get(str)+1);
