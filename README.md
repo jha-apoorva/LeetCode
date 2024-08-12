@@ -162,6 +162,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/jha-apoorva/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/jha-apoorva/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/jha-apoorva/LeetCode/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jha-apoorva/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -412,6 +413,7 @@
 | [1833-find-the-highest-altitude](https://github.com/jha-apoorva/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/jha-apoorva/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/jha-apoorva/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
