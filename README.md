@@ -52,6 +52,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
@@ -121,6 +122,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jha-apoorva/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1511-count-number-of-teams](https://github.com/jha-apoorva/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jha-apoorva/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jha-apoorva/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
