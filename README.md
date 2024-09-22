@@ -141,6 +141,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jha-apoorva/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jha-apoorva/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/jha-apoorva/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
@@ -273,6 +274,7 @@
 | [1651-shuffle-string](https://github.com/jha-apoorva/LeetCode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jha-apoorva/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/jha-apoorva/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -320,6 +322,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jha-apoorva/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jha-apoorva/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -398,6 +401,7 @@
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jha-apoorva/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
@@ -502,6 +506,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jha-apoorva/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
