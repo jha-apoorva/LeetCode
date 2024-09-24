@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jha-apoorva/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/jha-apoorva/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0400-nth-digit](https://github.com/jha-apoorva/LeetCode/tree/master/0400-nth-digit) |
