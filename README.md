@@ -17,6 +17,7 @@
 | [0263-ugly-number](https://github.com/jha-apoorva/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/jha-apoorva/LeetCode/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/jha-apoorva/LeetCode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
@@ -580,4 +581,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jha-apoorva/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jha-apoorva/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jha-apoorva/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
