@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/jha-apoorva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jha-apoorva/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jha-apoorva/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jha-apoorva/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jha-apoorva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -261,6 +263,7 @@
 | [0014-longest-common-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jha-apoorva/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jha-apoorva/LeetCode/tree/master/0242-valid-anagram) |
@@ -402,6 +405,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jha-apoorva/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
