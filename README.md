@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/jha-apoorva/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jha-apoorva/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jha-apoorva/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jha-apoorva/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jha-apoorva/LeetCode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -474,6 +476,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jha-apoorva/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jha-apoorva/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jha-apoorva/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/jha-apoorva/LeetCode/tree/master/2507-number-of-common-factors) |
