@@ -25,6 +25,7 @@
 | [0367-valid-perfect-square](https://github.com/jha-apoorva/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/jha-apoorva/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/jha-apoorva/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/jha-apoorva/LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
@@ -61,6 +62,7 @@
 | [0067-add-binary](https://github.com/jha-apoorva/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jha-apoorva/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jha-apoorva/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/jha-apoorva/LeetCode/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -280,6 +282,7 @@
 | [0344-reverse-string](https://github.com/jha-apoorva/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jha-apoorva/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/jha-apoorva/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
