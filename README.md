@@ -257,6 +257,7 @@
 | [0392-is-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/jha-apoorva/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -292,6 +293,7 @@
 | [0415-add-strings](https://github.com/jha-apoorva/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/jha-apoorva/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/jha-apoorva/LeetCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/jha-apoorva/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -344,6 +346,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jha-apoorva/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/jha-apoorva/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/jha-apoorva/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -448,6 +451,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/jha-apoorva/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jha-apoorva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
