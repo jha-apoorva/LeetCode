@@ -167,6 +167,7 @@
 | [1833-find-the-highest-altitude](https://github.com/jha-apoorva/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jha-apoorva/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/jha-apoorva/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1923-sentence-similarity-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -264,6 +265,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jha-apoorva/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jha-apoorva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -310,6 +312,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/jha-apoorva/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1923-sentence-similarity-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/1944-truncate-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jha-apoorva/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/jha-apoorva/LeetCode/tree/master/2128-reverse-prefix-of-word) |
