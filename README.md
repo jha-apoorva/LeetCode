@@ -23,6 +23,7 @@
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/jha-apoorva/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jha-apoorva/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jha-apoorva/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jha-apoorva/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/jha-apoorva/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/jha-apoorva/LeetCode/tree/master/0412-fizz-buzz) |
@@ -210,6 +211,7 @@
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/jha-apoorva/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jha-apoorva/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -448,6 +450,7 @@
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jha-apoorva/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/jha-apoorva/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
