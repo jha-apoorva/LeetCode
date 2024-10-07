@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/jha-apoorva/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/jha-apoorva/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/jha-apoorva/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/jha-apoorva/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/jha-apoorva/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/jha-apoorva/LeetCode/tree/master/0412-fizz-buzz) |
@@ -208,6 +209,7 @@
 | [0050-powx-n](https://github.com/jha-apoorva/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jha-apoorva/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/jha-apoorva/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/jha-apoorva/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
