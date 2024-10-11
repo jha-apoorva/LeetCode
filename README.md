@@ -182,6 +182,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/jha-apoorva/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/jha-apoorva/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jha-apoorva/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jha-apoorva/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -381,6 +382,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/jha-apoorva/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
@@ -608,6 +610,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3226-minimum-number-game](https://github.com/jha-apoorva/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
