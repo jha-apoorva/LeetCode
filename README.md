@@ -202,6 +202,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jha-apoorva/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/jha-apoorva/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/jha-apoorva/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -536,6 +537,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jha-apoorva/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jha-apoorva/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
@@ -619,6 +621,7 @@
 | [0948-sort-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/jha-apoorva/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
