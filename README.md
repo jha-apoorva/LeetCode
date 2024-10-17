@@ -36,6 +36,7 @@
 | [0507-perfect-number](https://github.com/jha-apoorva/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/jha-apoorva/LeetCode/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
@@ -531,6 +532,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/jha-apoorva/LeetCode/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/jha-apoorva/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/jha-apoorva/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jha-apoorva/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/jha-apoorva/LeetCode/tree/master/1304-longest-happy-string) |
