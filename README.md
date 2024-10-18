@@ -193,6 +193,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jha-apoorva/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -483,6 +484,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jha-apoorva/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
@@ -514,6 +516,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/jha-apoorva/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Greedy
