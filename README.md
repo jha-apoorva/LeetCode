@@ -79,6 +79,7 @@
 | [0921-spiral-matrix-iii](https://github.com/jha-apoorva/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/jha-apoorva/LeetCode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jha-apoorva/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/jha-apoorva/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/jha-apoorva/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -227,6 +228,7 @@
 | [0326-power-of-three](https://github.com/jha-apoorva/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jha-apoorva/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jha-apoorva/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -331,6 +333,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/jha-apoorva/LeetCode/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jha-apoorva/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jha-apoorva/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
