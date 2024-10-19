@@ -1,18 +1,19 @@
 class Solution {
+    public boolean isSelfDivisible(int num){
+        int temp = num;
+        while(temp > 0){
+            int digit = temp%10;
+            if(digit==0) return false;
+            else if(num%digit != 0) return false;
+            temp /= 10;
+        }
+    return true;
+    }
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> lst = new ArrayList<>();
-        
         for(int i=left;i<=right;i++){
-            int count=0;
-            char[] arr = Integer.toString(i).toCharArray();
-            for(int j=0;j<arr.length;j++){
-                if(arr[j]=='0') break;
-                else if((i%(arr[j]-'0'))==0){
-                    count++;
-                }
-            }
-            if(count==arr.length) lst.add(i);
-        }
+            if(isSelfDivisible(i)) lst.add(i);
+        }   
         return lst;
     }
 }
