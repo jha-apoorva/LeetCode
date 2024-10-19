@@ -44,6 +44,7 @@
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
+| [1115-valid-boomerang](https://github.com/jha-apoorva/LeetCode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jha-apoorva/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -153,6 +154,7 @@
 | [1002-maximum-width-ramp](https://github.com/jha-apoorva/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1115-valid-boomerang](https://github.com/jha-apoorva/LeetCode/tree/master/1115-valid-boomerang) |
 | [1256-rank-transform-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/jha-apoorva/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/jha-apoorva/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -705,4 +707,5 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1115-valid-boomerang](https://github.com/jha-apoorva/LeetCode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
