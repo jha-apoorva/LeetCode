@@ -40,6 +40,7 @@
 | [0670-maximum-swap](https://github.com/jha-apoorva/LeetCode/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jha-apoorva/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
@@ -143,6 +144,7 @@
 | [0724-find-pivot-index](https://github.com/jha-apoorva/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jha-apoorva/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jha-apoorva/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/jha-apoorva/LeetCode/tree/master/0890-lemonade-change) |
@@ -699,4 +701,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/jha-apoorva/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
