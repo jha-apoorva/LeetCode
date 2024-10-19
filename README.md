@@ -39,6 +39,7 @@
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/jha-apoorva/LeetCode/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jha-apoorva/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
@@ -485,6 +486,7 @@
 | [0342-power-of-four](https://github.com/jha-apoorva/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jha-apoorva/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jha-apoorva/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/jha-apoorva/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1610-xor-operation-in-an-array) |
