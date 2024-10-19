@@ -38,6 +38,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/jha-apoorva/LeetCode/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
