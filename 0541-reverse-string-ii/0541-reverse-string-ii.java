@@ -8,8 +8,9 @@ class Solution {
     }
     public String reverseStr(String s, int k) {
         char[] arr = s.toCharArray();
-        for(int i=0;i<arr.length;i+=2*k){
-            int end = Math.min(i+k-1,arr.length-1);
+        int n = arr.length;
+        for(int i=0;i<n;i+=2*k){
+            int end = Math.min(i+k-1,n-1);
             reverse(arr,i,end);
         }
     return new String(arr);
