@@ -119,6 +119,7 @@
 | [0075-sort-colors](https://github.com/jha-apoorva/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jha-apoorva/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jha-apoorva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jha-apoorva/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/jha-apoorva/LeetCode/tree/master/0162-find-peak-element) |
@@ -609,6 +610,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jha-apoorva/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jha-apoorva/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0948-sort-an-array) |
 ## Counting
@@ -687,6 +689,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jha-apoorva/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jha-apoorva/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -695,6 +698,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jha-apoorva/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jha-apoorva/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -714,4 +718,8 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1115-valid-boomerang](https://github.com/jha-apoorva/LeetCode/tree/master/1115-valid-boomerang) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jha-apoorva/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
