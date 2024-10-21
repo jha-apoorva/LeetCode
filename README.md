@@ -351,6 +351,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/jha-apoorva/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jha-apoorva/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/jha-apoorva/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jha-apoorva/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -411,6 +412,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jha-apoorva/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/jha-apoorva/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -539,6 +541,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
