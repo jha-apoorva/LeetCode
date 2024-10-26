@@ -162,6 +162,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/jha-apoorva/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/jha-apoorva/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jha-apoorva/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jha-apoorva/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jha-apoorva/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -348,6 +349,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jha-apoorva/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/jha-apoorva/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/jha-apoorva/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jha-apoorva/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -645,6 +647,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -705,6 +708,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jha-apoorva/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
