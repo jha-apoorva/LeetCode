@@ -219,6 +219,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jha-apoorva/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/jha-apoorva/LeetCode/tree/master/2634-minimum-common-value) |
@@ -422,6 +423,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jha-apoorva/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/jha-apoorva/LeetCode/tree/master/2634-minimum-common-value) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -456,6 +458,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jha-apoorva/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jha-apoorva/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/jha-apoorva/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -490,6 +493,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jha-apoorva/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jha-apoorva/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/jha-apoorva/LeetCode/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -602,6 +606,7 @@
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
 | [1511-count-number-of-teams](https://github.com/jha-apoorva/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jha-apoorva/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
 | ------- |
