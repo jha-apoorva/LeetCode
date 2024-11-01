@@ -348,6 +348,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/jha-apoorva/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jha-apoorva/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/jha-apoorva/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/jha-apoorva/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
