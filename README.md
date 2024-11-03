@@ -343,6 +343,7 @@
 | [0567-permutation-in-string](https://github.com/jha-apoorva/LeetCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/jha-apoorva/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/jha-apoorva/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jha-apoorva/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -707,6 +708,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/jha-apoorva/LeetCode/tree/master/0812-rotate-string) |
 ## Tree
 |  |
 | ------- |
