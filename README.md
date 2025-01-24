@@ -224,6 +224,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/jha-apoorva/LeetCode/tree/master/2634-minimum-common-value) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jha-apoorva/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/jha-apoorva/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/jha-apoorva/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/jha-apoorva/LeetCode/tree/master/2846-robot-collisions) |
@@ -378,6 +379,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jha-apoorva/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/jha-apoorva/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -555,6 +557,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/jha-apoorva/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jha-apoorva/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/jha-apoorva/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Backtracking
 |  |
