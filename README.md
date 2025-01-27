@@ -233,6 +233,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jha-apoorva/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/jha-apoorva/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/jha-apoorva/LeetCode/tree/master/3226-minimum-number-game) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jha-apoorva/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -389,6 +390,7 @@
 | [3194-find-words-containing-character](https://github.com/jha-apoorva/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/jha-apoorva/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/jha-apoorva/LeetCode/tree/master/3451-string-compression-iii) |
@@ -670,6 +672,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -722,6 +725,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/jha-apoorva/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
 | ------- |
@@ -766,4 +770,12 @@
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jha-apoorva/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
