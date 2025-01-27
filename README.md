@@ -215,6 +215,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jha-apoorva/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jha-apoorva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jha-apoorva/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -380,6 +381,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jha-apoorva/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -725,6 +727,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/jha-apoorva/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
