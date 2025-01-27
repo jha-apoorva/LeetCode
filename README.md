@@ -171,6 +171,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jha-apoorva/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jha-apoorva/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1511-count-number-of-teams](https://github.com/jha-apoorva/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jha-apoorva/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jha-apoorva/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -356,6 +357,7 @@
 | [1304-longest-happy-string](https://github.com/jha-apoorva/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jha-apoorva/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/jha-apoorva/LeetCode/tree/master/1651-shuffle-string) |
@@ -719,6 +721,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jha-apoorva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/jha-apoorva/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Tree
 |  |
 | ------- |
