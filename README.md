@@ -198,6 +198,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jha-apoorva/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/jha-apoorva/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/jha-apoorva/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jha-apoorva/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
