@@ -390,6 +390,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jha-apoorva/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jha-apoorva/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/jha-apoorva/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jha-apoorva/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -557,6 +558,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jha-apoorva/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jha-apoorva/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jha-apoorva/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jha-apoorva/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
