@@ -409,6 +409,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/jha-apoorva/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jha-apoorva/LeetCode/tree/master/3451-string-compression-iii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -458,6 +459,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -684,6 +686,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Interactive
 |  |
 | ------- |
