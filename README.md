@@ -249,6 +249,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jha-apoorva/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jha-apoorva/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jha-apoorva/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jha-apoorva/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Recursion
 |  |
 | ------- |
