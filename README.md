@@ -384,6 +384,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jha-apoorva/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/jha-apoorva/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jha-apoorva/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/jha-apoorva/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/jha-apoorva/LeetCode/tree/master/1944-truncate-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jha-apoorva/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -449,6 +450,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jha-apoorva/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jha-apoorva/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jha-apoorva/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jha-apoorva/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -687,6 +689,7 @@
 | [1635-number-of-good-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/jha-apoorva/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jha-apoorva/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
