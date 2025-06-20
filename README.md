@@ -76,6 +76,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jha-apoorva/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jha-apoorva/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jha-apoorva/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jha-apoorva/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -414,6 +415,7 @@
 | [3447-clear-digits](https://github.com/jha-apoorva/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jha-apoorva/LeetCode/tree/master/3451-string-compression-iii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jha-apoorva/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -466,6 +468,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jha-apoorva/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -700,6 +703,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/jha-apoorva/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jha-apoorva/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jha-apoorva/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Interactive
 |  |
 | ------- |
