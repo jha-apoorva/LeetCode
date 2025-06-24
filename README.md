@@ -722,6 +722,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jha-apoorva/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jha-apoorva/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
@@ -789,6 +790,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jha-apoorva/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jha-apoorva/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
