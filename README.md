@@ -70,6 +70,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/jha-apoorva/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/jha-apoorva/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/jha-apoorva/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/jha-apoorva/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jha-apoorva/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jha-apoorva/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -643,6 +644,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jha-apoorva/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jha-apoorva/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jha-apoorva/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/jha-apoorva/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jha-apoorva/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/jha-apoorva/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jha-apoorva/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
