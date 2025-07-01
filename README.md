@@ -423,6 +423,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/jha-apoorva/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/jha-apoorva/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jha-apoorva/LeetCode/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/jha-apoorva/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jha-apoorva/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jha-apoorva/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
