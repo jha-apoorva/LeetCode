@@ -42,6 +42,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jha-apoorva/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/jha-apoorva/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [0900-reordered-power-of-2](https://github.com/jha-apoorva/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/jha-apoorva/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jha-apoorva/LeetCode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/jha-apoorva/LeetCode/tree/master/1115-valid-boomerang) |
@@ -453,6 +454,7 @@
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/jha-apoorva/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0900-reordered-power-of-2](https://github.com/jha-apoorva/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jha-apoorva/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -535,6 +537,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jha-apoorva/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/jha-apoorva/LeetCode/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/jha-apoorva/LeetCode/tree/master/0726-number-of-atoms) |
+| [0900-reordered-power-of-2](https://github.com/jha-apoorva/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/jha-apoorva/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jha-apoorva/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -627,6 +630,7 @@
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/jha-apoorva/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [0900-reordered-power-of-2](https://github.com/jha-apoorva/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jha-apoorva/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/jha-apoorva/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jha-apoorva/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -712,6 +716,7 @@
 | [0169-majority-element](https://github.com/jha-apoorva/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jha-apoorva/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jha-apoorva/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/jha-apoorva/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jha-apoorva/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jha-apoorva/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jha-apoorva/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
